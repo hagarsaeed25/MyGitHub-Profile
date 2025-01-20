@@ -101,7 +101,7 @@ font-weight: bold;
 }
 .search .user-data .user-repos {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
   gap: 10px 35px;
   margin-top: 20px;
 }
