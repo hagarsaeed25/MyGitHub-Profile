@@ -5,9 +5,9 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "Any",
-  "scope": "/",
+  "scope": "https://hagarsaeed25.github.io/MyGitHub-Profile/",
   "start_url": "https://hagarsaeed25.github.io/MyGitHub-Profile/",
-  "id":"/MyGitHub-Profile/",
+  "id":"https://hagarsaeed25.github.io/MyGitHub-Profile/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
