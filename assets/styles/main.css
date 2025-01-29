@@ -70,7 +70,9 @@ header img{
     padding:60px;
   }
 }
-
+.search {
+  padding:10px;
+}
 .user-data .avatar{
   display: flex;
   align-items: center;
@@ -84,6 +86,10 @@ header img{
   border-radius: 50%;
 
 }
+.search .user-data .avatar img:hover{
+  width: 270px;
+  transition:0.3s;
+}
 .search .user-data .avatar h1 {
   margin: 15px 0 ;
   font-size: 30px;
@@ -94,7 +100,11 @@ header img{
   font-size: 18px;
 font-weight: bold;
 }
-
+.search .user-data .avatar a:hover{
+  color: var(--text-color);
+  font-size: 20px;
+  transition:0.3s;
+}
 .search .user-data .user-repos {
  display: flex;
 
